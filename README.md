@@ -9,7 +9,7 @@ Enjoy!!!
 # Installation 
 
 -> Install the folder named youtube  <br />
--> Go to the page :- [Extensions](chrome://extensions/) <br />
+-> Type the url and go to the page :- chrome://extensions/  <br />
 -> Turn on the developers mode in your browser (button on right top for chrome) <br />
 -> Now click " Load unpacked " , and browse to the location where you saved above folder and upload this folder <br />
 -> Now pin the extension on extension bar <br />
