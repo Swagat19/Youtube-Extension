@@ -11,7 +11,7 @@ Enjoy!!!
 -> Install the zip folder and extract all files <br />
 -> Type the url and go to the page :- chrome://extensions/  <br />
 -> Turn on the developers mode in your browser (button on right top for chrome) <br />
--> Now click " Load unpacked " , and browse to the location where you saved above folder and upload folder named "Youtube" as it is having manifest.json file. <br />
+-> Now click " Load unpacked " , and browse to the location where you saved above folder and upload folder named    "Youtube" as it is having manifest.json file. <br />
 -> Now pin the extension on extension bar <br />
 -> The extension is ready to use <br />
 
